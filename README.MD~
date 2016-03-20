@@ -1,0 +1,6 @@
+#此程序可通过扫描二维码自动连接附近Wifi
+
+二维码格式如下
+ssid:5656//wifi名称
+password:45464//wifi 密码
+security:null//wifi 安全策略  不写默认为WPA加密 可选 null 无密码 wpa WPA加密 wep WEP加密
